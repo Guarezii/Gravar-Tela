@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gravar tela (Salvar como)/1.0.0": {
+        "runtime": {
+          "Gravar tela (Salvar como).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gravar tela (Salvar como)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

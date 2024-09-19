@@ -1,0 +1,16 @@
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\bin\Debug\net6.0-windows\Gravar tela (Salvar como).exe
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\bin\Debug\net6.0-windows\Gravar tela (Salvar como).deps.json
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\bin\Debug\net6.0-windows\Gravar tela (Salvar como).runtimeconfig.json
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\bin\Debug\net6.0-windows\Gravar tela (Salvar como).dll
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\bin\Debug\net6.0-windows\Gravar tela (Salvar como).pdb
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar_tela__Salvar_como_.Form1.resources
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).csproj.GenerateResource.cache
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).AssemblyInfoInputs.cache
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).AssemblyInfo.cs
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).csproj.CoreCompileInputs.cache
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).dll
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\refint\Gravar tela (Salvar como).dll
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).pdb
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\Gravar tela (Salvar como).genruntimeconfig.cache
+C:\Users\adriano_guarezi\source\repos\Gravar tela (Salvar como)\Gravar tela (Salvar como)\obj\Debug\net6.0-windows\ref\Gravar tela (Salvar como).dll
